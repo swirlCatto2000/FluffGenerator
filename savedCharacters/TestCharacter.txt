@@ -1,0 +1,9 @@
+TestCharacter
+Bunny
+Male
+Purple
+Black
+Tall
+Well-Rounded
+Thigh Highs
+Tail Ring

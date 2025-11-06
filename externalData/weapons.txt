@@ -1,0 +1,9 @@
+Pistol
+Pocket Knife
+Submachine Gun
+Katana
+Hunting Rifle
+Shotgun
+Brass Knuckles
+Axe
+Sniper Rifle
