@@ -1,6 +1,7 @@
 # FluffGenerator
 
 A small character creator thing I made in the terminal for fun :) Supports naming and saving the characters you generate. Maybe I might do more with it in the near future. Added some funny tip of the day stuff because why not.
+Download the .zip, and extract fluffGenerator to somewhere on your desktop; and run FluffGenerator 1.2.exe
 
 --------------------------
 ### Other Stuff
